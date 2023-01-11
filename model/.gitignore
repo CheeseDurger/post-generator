@@ -1,0 +1,5 @@
+__pycache__
+secret_variables.py
+*.json
+*.jsonl
+*.xlsx

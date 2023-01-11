@@ -1,0 +1,5 @@
+environment                  = "production"
+subdomain_name               = "post-generator.net"
+table_name                   = "production_posts"
+lambda_name                  = "production_lambda_back"
+google_search_console_record = "google-site-verification=UmyrD3cKT3gcNezLKhPwFJhVBp78C6-HunexCseN0Og"

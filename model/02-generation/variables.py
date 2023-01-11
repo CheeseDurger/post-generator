@@ -1,0 +1,7 @@
+import_filename = "your xlsx input data filename"
+content_column_name = "New content"
+topic = "your topic"
+prompt = ""
+prompt_stop = ""
+completion_stop = " §µµ"
+classification_model = "your classification model"

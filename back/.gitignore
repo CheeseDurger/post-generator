@@ -1,0 +1,8 @@
+node_modules
+*.secrets.ts
+
+# Local files generated with the deployment script
+config.ts
+secrets.ts
+dist
+dist.zip

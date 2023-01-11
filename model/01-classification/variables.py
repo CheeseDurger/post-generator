@@ -1,0 +1,6 @@
+import_filename = "your input data xlsx filename"
+ok_class = "1"
+ko_class = "2"
+content_column_name = "New content"
+prompt_separator = "\nµµµ\n"
+completion_stop = " §µµ"
